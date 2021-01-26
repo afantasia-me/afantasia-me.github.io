@@ -1,1 +1,1 @@
-[Just a personal site](https://alexblandin.github.io)
+[Just a personal site](https://afantasia-me.github.io)
