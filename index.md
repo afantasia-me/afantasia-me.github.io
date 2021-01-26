@@ -5,8 +5,9 @@ title: Home
 
 # Op. Nil
 
-This is the current, temporary home of me, Alex.
+This is my current (temporary) home.
 
-My usual handle is "babel". Can be "afantasia" or "segfault", depends on context/platform.
+My usual handles are "afantasia" and "babel", depends on context/platform.
+I've a few older handles floating around, but they're not too important now.
 
 I read books 📚 and drink tea 🍵.
