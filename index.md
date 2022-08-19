@@ -27,7 +27,7 @@ I thank [Sangled](https://twitter.com/sangled) for their wonderful picrew (now s
 ## Recent Posts
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts :5 %}
   <li><span>{{ post.date | date_to_string }}</span> >> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
