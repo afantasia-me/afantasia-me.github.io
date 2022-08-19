@@ -2,7 +2,6 @@
 layout: post
 title: Let's try that again
 date: 2022-08-19
-version: v1.0.0
 updated: 2022-08-19
 tags:
   - Bookkeeping
