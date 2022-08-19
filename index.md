@@ -16,7 +16,8 @@ I read books 📚 and drink tea 🍵.
 You can sometimes find me:
 
 - Writing: [aFantasia](https://archiveofourown.org/users/aFantasia)
-- On the bird app: [@aFantasia__](https://twitter.com/aFantasia__)
+  + Writing bird app: [@aFantasia__](https://twitter.com/aFantasia__)
+- Public bird app: babel [@StoryStratos](https://twitter.com/StoryStratos)
 - On discord: babel#0001
 
 I thank [Sangled](https://twitter.com/sangled) for their wonderful picrew (now sadly 404'd), used for pfp.
