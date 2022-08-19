@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }} @ Atelier Fantasia</title>
+    <meta charset="utf-8">
+    <!-- A stylesheet I've had sitting around for a long time, apologies I can't cite it -->
+    <link rel="stylesheet" type="text/css" href="/revere.css">
+    <!-- thanks to Sangled for their wonderful picrew creator -->
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"> 
+  </head>
+<body>
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/tags">Tags</a></li>
+    <li><a href="/projects">Projects</a></li>
+    <li><a href="/papers">Papers</a></li>
+  </ul>
+</nav>
+<div class="content">
+
+{{ content }}
+
+</div>
+<footer>
+  Copyright &copy; {{ site.time | date: '%Y' }}
+</footer>
+</body></html>
