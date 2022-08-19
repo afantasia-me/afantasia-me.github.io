@@ -17,8 +17,8 @@ nav ul li {
  display: inline;
 }
 
-ul.posts {
-  list-style-type: none;
+ul li {
+  list-style-type: "\2013";
 }
 
 footer {
