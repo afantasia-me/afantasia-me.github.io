@@ -13,6 +13,10 @@ body {
   padding: 1em;
 }
 
+nav ul li {
+  display: inline;
+}
+
 ul li {
   list-style-type: "\2014  ";
 }
