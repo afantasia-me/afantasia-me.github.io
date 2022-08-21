@@ -3,13 +3,14 @@ layout: default
 title: Home
 ---
 
-# Welcome to the Atelier Fantasia
+# Welcome to Atelier Fantasia
 
 > Unabashadly infrequent work in progress.
 
 My usual pseudonym is A. Fantasia (stylised: aFantasia), while my online handle is babel.
 - A. Fantasia is a self-reference. Not hard to figure out.
-- babel is after Jorge Luis Borges, sadly not Douglas Adams. Simply not confident as a translator, I'm afraid!
+- babel is after Jorge Luis Borges, sadly not Douglas Adams.
+  + Not cut out to be a translator, I'm afraid!
 
 I read books 📚 and drink tea 🍵.
 
