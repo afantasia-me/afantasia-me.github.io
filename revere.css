@@ -11,6 +11,7 @@ body {
   max-width: 40em;
   margin: auto;
   padding: 1em;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
 nav ul li {
@@ -18,7 +19,7 @@ nav ul li {
 }
 
 ul li {
-  list-style-type: "\2014  ";
+  list-style-type: "\2012  ";
 }
 
 footer {
