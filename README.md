@@ -1,1 +1,1 @@
-[Just a personal site](https://afantasia-me.github.io)
+[Just a personal site](https://afantasia.me)
