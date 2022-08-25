@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to Atelier Fantasia
+# Welcome to the Atelier Fantasia
 
 > Unabashadly infrequent work in progress.
 
