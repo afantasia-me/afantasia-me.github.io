@@ -30,7 +30,7 @@ I bought this with the Ryzen 4700U, though realistically a SKU with the 4500U is
 
 What was worth it, however, was the increase to 16 GB from a measly 8 GB and the increase from 256 GB internal storage to 512 GB. From what I've seen the 8 GB SKUs only come as single channel, which is dumb since that's going to hamper performance, albeit then a little easier to upgrade.
 
-Well, "worth it" is relative, honestly it's still not quite equitable: you could purchase the cheaper SKU, then for parity you'd grab an 8 GB stick of 3200MHz SODIMM RAM, which should run around £30 to £40 depending on price fluctuations, and then you'd grab a larger M.2 drive, with HP using an Intel 660p 512 GB which runs a little under £70. If you did that then, well, you would be saving about £90, which is nice, and you could instead grab two 16 GB sticks and try your luck or go for an even larger M.2 drive, perhaps a full 1 TB. Oh, but you *would* need to install it all yourself, which would likely be a time-consuming and fiddly process, especially without an iFixit teardown. *Thanks, HP.*
+Well, "worth it" is relative, honestly it's still not quite equitable: you could purchase the cheaper SKU, then for parity you'd grab an 8 GB stick of 3200 MHz SODIMM RAM, which should run around £30 to £40 depending on price fluctuations, and then you'd grab a larger M.2 drive, with HP using an Intel 660p 512 GB which runs a little under £70. If you did that then, well, you would be saving about £90, which is nice, and you could instead grab two 16 GB sticks and try your luck or go for an even larger M.2 drive, perhaps a full 1 TB. Oh, but you *would* need to install it all yourself, which would likely be a time-consuming and fiddly process, especially without an iFixit teardown. *Thanks, HP.*
 
 [Edit: With later research it appears that the RAM is soldered and thus not upgradable. What a shame HP.]
 
@@ -177,7 +177,7 @@ But I would also like to reiterate that this is *a 15 W chip versus a 95 W chip*
 
 Zen 2 is some seriously impressive work from AMD and TSMC's 7 nm is *shaming* Intel's 14 nm node.
 
-I could carry on with talk of performance, but really it's just more of the same: the 4700U is an insane amount of processing power in a tiny and lightweight package. The rest of the performance specs reflect this: high speed NVMe SSD (by Intel, ironically), 3200MHz dual-channel RAM (with rather sloppy timings but oh well), Vega 8 graphics — not that I'd game on it but it's leagues better than Intel's integrated graphics on the Surface Go — which means video playback is *smooth*.
+I could carry on with talk of performance, but really it's just more of the same: the 4700U is an insane amount of processing power in a tiny and lightweight package. The rest of the performance specs reflect this: high speed NVMe SSD (by Intel, ironically), 3200 MHz dual-channel RAM (with rather sloppy timings but oh well), Vega 8 graphics — not that I'd game on it but it's leagues better than Intel's integrated graphics on the Surface Go — which means video playback is *smooth*.
 
 So with that out of the way, time to discuss the rest of the laptop. Namely, the part HP is responsible for.
 
