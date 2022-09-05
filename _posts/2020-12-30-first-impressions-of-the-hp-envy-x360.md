@@ -28,9 +28,9 @@ AMD's new Zen 2 laptop CPUs are going to be a big draw for many; they're certain
 
 I bought this with the Ryzen 4700U, though realistically a SKU with the 4500U is equally capable for most tasks. Since neither have SMT, you're looking at 8 cores in the 4700U vs 6 cores in the 4500U — not that big a difference unless you're a *heavy* multitasker. Honestly, at £999.99 (VAT inc.) for the 4700U vs £799.99 (VAT inc.) for the 4500U equipped models (remembering that we only get 3 SKUs in the UK, with an even more expensive one that just has more internal storage) then that performance improvement in multicore tasks is most definitely not worth it for the price uplift.
 
-What was worth it, however, was the increase to 16 GB from a measly 8 GB and the increase from 256 GB internal storage to 512 GB. From what I've seen the 8 GB SKUs only come as single channel, which is dumb since that's going to hamper performance, albeit then a little easier to upgrade.
+What was worth it, however, was the increase to 16 GB from a measly 8 GB and the increase from 256 GB internal storage to 512 GB. From what I've seen the 8 GB SKUs only come as single channel, which is dumb since that's going to hamper performance, albeit then a little easier to upgrade.
 
-Well, "worth it" is relative, honestly it's still not quite equitable: you could purchase the cheaper SKU, then for parity you'd grab an 8 GB stick of 3200MHz SODIMM RAM, which should run around £30 to £40 depending on price fluctuations, and then you'd grab a larger M.2 drive, with HP using an Intel 660p 512 GB which runs a little under £70. If you did that then, well, you would be saving about £90, which is nice, and you could instead grab two 16 GB sticks and try your luck or go for an even larger M.2 drive, perhaps a full 1 TB. Oh, but you *would* need to install it all yourself, which would likely be a time-consuming and fiddly process, especially without an iFixit teardown. *Thanks, HP.*
+Well, "worth it" is relative, honestly it's still not quite equitable: you could purchase the cheaper SKU, then for parity you'd grab an 8 GB stick of 3200MHz SODIMM RAM, which should run around £30 to £40 depending on price fluctuations, and then you'd grab a larger M.2 drive, with HP using an Intel 660p 512 GB which runs a little under £70. If you did that then, well, you would be saving about £90, which is nice, and you could instead grab two 16 GB sticks and try your luck or go for an even larger M.2 drive, perhaps a full 1 TB. Oh, but you *would* need to install it all yourself, which would likely be a time-consuming and fiddly process, especially without an iFixit teardown. *Thanks, HP.*
 
 [Edit: With later research it appears that the RAM is soldered and thus not upgradable. What a shame HP.]
 
@@ -40,13 +40,13 @@ There's simply nothing in stock. Anywhere. Good luck finding anything modern and
 
 ...
 
-But holy shit, Zen 2. Wow. All this power at 15W? FIFTEEN!? Honestly, I'm stunned.
+But holy shit, Zen 2. Wow. All this power at 15 W? FIFTEEN!? Honestly, I'm stunned.
 
-Spoiler Warning: This *15W laptop chip* trails only *ever so slightly* behind a *95W desktop CPU*.
+Spoiler Warning: This *15 W laptop chip* trails only *ever so slightly* behind a *95 W desktop CPU*.
 
 That's *insane*.
 
-Compared to the Surface Go (which I bought intending to use like a tablet, and ended up practically daily driving) which has a venerable 6W Pentium chip, this thing *shreds*. And compared to a 17" Clevo with a *desktop* 4770k, this thing is *actually a laptop*. As in, I can use it on my *lap* comfortably *without worrying where the nearest power outlet is*. And it's also *faster* (outside of GPU compute). 🤯
+Compared to the Surface Go (which I bought intending to use like a tablet, and ended up practically daily driving) which has a venerable 6 W Pentium chip, this thing *shreds*. And compared to a 17" Clevo with a *desktop* 4770k, this thing is *actually a laptop*. As in, I can use it on my *lap* comfortably *without worrying where the nearest power outlet is*. And it's also *faster* (outside of GPU compute). 🤯
 
 AMD has made something truly special.
 
@@ -71,9 +71,7 @@ Python isn't the be-all, end-all of performance, but it sure is a language I use
 
 Oh, you want to see numbers? Well... okay, let's start off with a generic python benchmark.
 
-For the sake of a quick, generic comparison, here's `pyperformance` running on the Envy and on my primary machine (my 8700k equipped beast, Jarvis). I couldn't be bothered with multiple runs to reduce jitter, so this isn't great experimentation, but this does give a good idea for how you're really able to use a laptop like this for quick and dirty "real work". So, how does it fare?
-
-[pyperformance](https://pypi.org/project/pyperformance/):
+For the sake of a quick, generic comparison, here's [`pyperformance`](https://pypi.org/project/pyperformance/) running on the Envy and on my primary machine (my 8700k equipped beast, Jarvis). I couldn't be bothered with multiple runs to reduce jitter, so this isn't great experimentation, but this does give a good idea for how you're really able to use a laptop like this for quick and dirty "real work". So, how does it fare?
 
 | Benchmark               | Envy    | Jarvis  | The Envy is  |
 |-------------------------|---------|---------|--------------|
@@ -125,7 +123,6 @@ For the sake of a quick, generic comparison, here's `pyperformance` running on t
 | xml_etree_generate      | 116 ms  | 111 ms  | 1.05x slower |
 | xml_etree_process       | 91.5 ms | 83.4 ms | 1.10x slower |
 
-
 Yo, wtf? Like, I know I said this chip was good, but there is really not much in it a lot of the time. *And* this table doesn't even include the 13 tests that had a *sub-1% difference*.
 
 And... is... is that... is the Envy running *faster*???
@@ -176,9 +173,9 @@ Fundamentally, what we are seeing here is how there are indeed relatively signif
 
 Now, some of this is the difference in clock speed. The Envy was boosting between 3.95 GHz and 4.02 GHz, whilst Jarvis was running at 4.29 GHz to 4.36 GHz. However, this only accounts for half the performance delta, and I suspect most of the remaining delta is mostly dominated by the subtle differences in branch & jump prediction and differences in how they hide cache read/write latency.
 
-But I would also like to reiterate that this is *a 15W chip versus a 95W chip*.
+But I would also like to reiterate that this is *a 15 W chip versus a 95 W chip*.
 
-Zen 2 is some seriously impressive work from AMD and TSMC's 7 nm is *shaming* Intel's 14 nm node.
+Zen 2 is some seriously impressive work from AMD and TSMC's 7 nm is *shaming* Intel's 14 nm node.
 
 I could carry on with talk of performance, but really it's just more of the same: the 4700U is an insane amount of processing power in a tiny and lightweight package. The rest of the performance specs reflect this: high speed NVMe SSD (by Intel, ironically), 3200MHz dual-channel RAM (with rather sloppy timings but oh well), Vega 8 graphics — not that I'd game on it but it's leagues better than Intel's integrated graphics on the Surface Go — which means video playback is *smooth*.
 
@@ -411,11 +408,11 @@ Well, it's not *that* big of a deal. But it *is* annoying and hey, if you're sti
 
 ![](/assets/laptop/IMG_20200815_162711.jpg)
 
-That's right! It's a full-sized USB-A port! And micro (grr) SD! Yes, that's a barrel connector and not a USB-C port, I know, it makes me sad as well, but it charges up pretty quick regardless (oh, since I haven't mentioned yet, the UK SKUs have 3-cell 51Wh Li-ion batteries) so 2 out of 3 isn't so bad.
+That's right! It's a full-sized USB-A port! And micro (grr) SD! Yes, that's a barrel connector and not a USB-C port, I know, it makes me sad as well, but it charges up pretty quick regardless (oh, since I haven't mentioned yet, the UK SKUs have 3-cell 51 Wh Li-ion batteries) so 2 out of 3 isn't so bad.
 
 ![](/assets/laptop/IMG_20200815_162717.jpg)
 
-On the other side we see the headphone+microphone combo jack (2.5 mm, obviously), ANOTHER full size USB-A (oh my word I don't need to carry a dongle I don't believe it), and then a USB-C port as well! While it's a shame there's no display ports of any kind, HP are kind enough to provide an actual USB-C to HDMI 2.0 adapter with the included accessories, so there's that.
+On the other side we see the headphone+microphone combo jack (2.5 mm, obviously), ANOTHER full size USB-A (oh my word I don't need to carry a dongle I don't believe it), and then a USB-C port as well! While it's a shame there's no display ports of any kind, HP are kind enough to provide an actual USB-C to HDMI 2.0 adapter with the included accessories, so there's that.
 
 How does the full-sized USB-A port work?
 
@@ -443,7 +440,7 @@ What?
 
 But it has a barrel plug?
 
-Yes! As it turns out, you can charge the HP Envy x360 over the USB-A port on the barrel plug side or over the USB-C port! You just need a 65W USB cable and charger. Lower Wattage might mean trickle charging the device or, if you're giving less than 15W, just delaying the inevitable!
+Yes! As it turns out, you can charge the HP Envy x360 over the USB-A port on the barrel plug side or over the USB-C port! You just need a 65 W USB cable and charger. Lower Wattage might mean trickle charging the device or, if you're giving less than 15 W, just delaying the inevitable!
 
 Well, I'll be!
 
@@ -469,7 +466,7 @@ Now, for some final gripes at HP, quick-fire round style:
 10. Little bumps above Escape and Delete are annoying, and I keep pressing them on accident
 11. Bloatware still present, basically all useless or redundant in Windows 10, UWP is ugly as ever
 12. Fingerprint reader not backlit/ring lit, looks out of place because of it
-13. Battery could be bigger, I don't mind a little extra weight if I got 60-65Wh
+13. Battery could be bigger, I don't mind a little extra weight if I got 60-65 Wh
 14. Gem-cut is the worst part of the design (except the keyboard, no forgiving that), round it off
 15. Please just go 16:10, at 13" it's already too big for portrait mode with a 1080p panel
 16. MORE AND BETTER UK SKUs, SERIOUSLY, WHAT'S WITH THE UNDER-SPECCING?!?!
