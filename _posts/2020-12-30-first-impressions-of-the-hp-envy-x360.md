@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red with Envy" — First Impressions of the HP Envy x360
+title: First Impressions of the HP Envy x360
 date: 2020-12-30
 updated: 2022-09-05
 tags:
