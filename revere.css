@@ -22,10 +22,11 @@ img {
 table {
   width: 40em;
   padding: 4px;
+  border-style: dashed;
 }
 
 td {
-  padding: 1em;
+  padding: 4px;
 }
 
 nav ul li {
