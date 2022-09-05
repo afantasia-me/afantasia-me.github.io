@@ -19,6 +19,15 @@ img {
   object-fit: scale-down;
 }
 
+table {
+  width: 40em;
+  padding: 4px;
+}
+
+td {
+  padding: 1em;
+}
+
 nav ul li {
   display: inline;
 }
