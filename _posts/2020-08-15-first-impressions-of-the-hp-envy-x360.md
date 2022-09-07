@@ -69,7 +69,7 @@ If you really want benchmarks, you'll be better served elsewhere. What I've put 
 
 Python isn't the be-all, end-all of performance, but it sure is a language I use a *lot*. I don't do much numerical work, mostly I need it for computer algebra like workloads as I'm typically doing combinatorics for generating and counting chessboards and such patterns, but good `scipy` performance (mostly `numpy` and thus C FFI/DLL performance) helps when I do something numeric.
 
-Oh, you want to see numbers? Well... okay, let's start off with a generic python benchmark.
+Oh, you want to see numbers? Well... okay, let's start off with a python benchmark.
 
 For the sake of a quick, generic comparison, here's [`pyperformance`](https://pypi.org/project/pyperformance/) running on the Envy and on my primary machine (my 8700k equipped beast, Jarvis). I couldn't be bothered with multiple runs to reduce jitter, so this isn't great experimentation, but this does give a good idea for how you're really able to use a laptop like this for quick and dirty "real work". So, how does it fare?
 
