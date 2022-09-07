@@ -24,10 +24,14 @@ To end, I'm going to put one of my favourite comments below verbatim, just becau
 [Are We Overestimating the Number of COBOL Transactions Each Day? - Slashdot:](https://developers.slashdot.org/comments.pl?sid=18156250&cid=61014218)
 
 > I never understood why this is an issue.
+> 
 > *** sorry for the book below... I started writing and... well it got out of control ***
+> 
 > Back in the 90's I worked for a bank clearing house and was coding some stuff on PC and there was an NCR mainframe which was actually so far out of support that they were literally collecting spare NCR mainframes from dumpsters to have spare parts. There was simply no point in rewriting the banking code since the mainframe from the 1970's was processing banking transactions for … everything for about 1/3 of all bank customers in the state of Florida at the time. We had an entire building dedicated to paper check processing with machines that reached 5 meter high ceilings lining all the walls. We were ingesting (what I assume was) millions of paper checks a week.
+> 
 > The mainframe guys didn't see their jobs threatened because unlike nearly every PC technology, on the mainframe, everything is an object and everything is a transaction.
-> To compare to a modern approach... an IBM mainframe is :
+> 
+> To compare to a modern approach... an IBM mainframe is:
 > - CICS - Function as a Service, similar to Amazon Lambda functions... almost identical in fact.
 > - DB2 - Distributed Object storage database with NoSQL support as well as (I think) and ACID compliant SQL query engine as well as tables support
 > - JCL - Basically the AWS command line tools for uploading and scheduling Lambda events and transactions
@@ -45,8 +49,13 @@ To end, I'm going to put one of my favourite comments below verbatim, just becau
 > - When a transaction comes in, the function associated with the transaction (often referenced with something like a URL) is loaded onto a node.
 > - The CPU in the node isn't important. The binary format for IBM mainframes is a virtual machine language and has to be just in time compiled on the node where it will run if a binary wasn't already cached from earlier transactions.
 > - The system depended on the terminals to provide user interface functionality. Since the 60's, I'm had been using declarative UIs and a language like JSON for triggering transactions. The difference being that terminals didn't need responsive UI or single page apps. Instead, when a new page layout was needed, a transaction would request it and it would be loaded from the object store.
+> 
 > Most every programmer in the business world today is learning and using this stuff. Just, they generally use a different cloud provider where they pay for timesharing on someone else's mainframe... which is what a cloud provider is.
+> 
 > I simply can't possibly understand why, other than vendor lock in... which if it's IBM, it isn't cheap... but until Ginny gutted it was highly reliable... why would anyone have an issue with this?
+> 
 > If you're a bank, financial institution, etc... it's probably still one of the best architectures you can possibly get your hands on. I spent 60 hours last month trying to figure out how to implement distributed storage in a K8S cluster... and how to implement scheduled rolling backups for it... I spent many additional hours trying to figure our how to automate the entire process of removing a K8S node and adding a new one programmatically, Then there's managing the firmware updates for the physical hardware it's running on... I actually have a 50 or so page document listing all the stupid little things I have to do.... to make a simple web server running OpenFaaS and such.
+> 
 > What's really funny is that if I get this project going, in the end, I'll have a system which is almost a direct mirror of an IBM mainframe... but running on a bunch of Raspberry Pi like devices (except with proper storage connectivity). It'll be able to handle millions of transactions and will be able to scale to hundreds of nodes.
+> 
 > But if I needed this system at a bank, I'd just call IBM and ask them to deliver... and I honestly don't care whether the functions are written in COBOL or some other language. it doesn't matter, it's data-in, process data, data out. I would give people grief for writing those functions in low level languages... I'd much rather see COBOL than Python, but I would accept Python long before I accept C or any other language which requires you to reinvent the wheel... every time.
