@@ -11,7 +11,7 @@ Okay, here's a small rant against a common approach to storytelling in games: Cu
 
 First person means "I". If I am not inhabiting the character, then your "I" is not first person. When you take away control, then it has now become second person, or worse, third person. "I" has become "you" or "them".
 
-If you are separating the player from their character, then they are no longer **in** that character. The are only watching, which means that to the game, "I" really means "you". It places a clear boundary between the player and the game, saying "we cannot trust *you* with this". 
+If you are separating the player from their character, then they are no longer **in** that character. They are only watching, which means that to the game, "I" really means "you". It places a clear boundary between the player and the game, saying "we cannot trust *you* with this". 
 
 Now, if you are presupposing that barrier, as is often the case in many third person games, then this is not strictly an issue. You and the character are separate. You choose their actions, yes, but narratively that is because you are a stand-in representative of their "will", rather than being embodied in the game. You are **playing the part**. You are an **actor**. You are not freely in the game, you are helping tell their story.
 
@@ -27,7 +27,7 @@ When we have point-of-view, we are sometimes accompanied by inner monologue, or 
 
 One is a representation of the other. What is first person is lived experience. We all have it, and when we recount it, we often present it as such. But this retelling is now distinct from that original experience, and we know this because the same person can recount in different perspectives, including those to which they have no claim of experiencing.
 
-Again, this is natural. To claim a third person, objective view of events is to claim a perspective that was never there, and that we never experienced. We can, however, infer from this fictitious perspective, and therefore may construct it in such a way as to distill truths from the meeting of subjective experiences.
+Again, this is natural. To claim a third person, objective view of events is to claim a perspective that was never there, and that we never experienced. We can, however, infer from this fictitious perspective, and therefore may construct it in such a way as to distil truths from the meeting of subjective experiences.
 
 All the meanwhile, we only ever had the one, first person, experience, and could not experience it any other way.
 
@@ -37,9 +37,9 @@ In simple terms, if they want to break it, let them. It's their art now, after a
 
 If I chose to play Beethoven's Fifth but change some things here and there, that is valid. It's my right as a performer. Maybe others will ask *why* I changed it, to which I may or may not be able to provide an answer, but they cannot say I was not allowed to. That's performance, and it's always different in timing and framing and substance. Perhaps not by much, but it's there.
 
-That's because performance is inherently first person. Only the performer truly experiences it. All others are, instead, constructing this illusory third person perspective, infering thought and intent, including any other performers. So this perspective is clearly valid! Performers in an orchestra are not having a lesser experience than their audience, after all, simply a different one.
+That's because performance is inherently first person. Only the performer truly experiences it. All others are, instead, constructing this illusory third-person perspective, inferring thought and intent, including any other performers. So this perspective is clearly valid! Performers in an orchestra are not having a lesser experience than their audience, after all, simply a different one.
 
-But that's something lost on a lot of games. The focus is on the perspective, rather than the experience. If you want to make a film, but rendered in 3D, and with a POV perspective, go for it. But a game is not just that. Not many games get that. A few feel it, subconsciously "getting it" with their experiencial focus on gameplay and storytelling and so forth. Fewer acknowledge it, either by establishing it as a rule for the game's design and presentation (see Half Life, God of War 2018), or even moreso by directly referencing this in the game itself (see the Stanley Parable).
+But that's something lost on a lot of games. The focus is on the perspective, rather than the experience. If you want to make a film, but rendered in 3D, and with a POV perspective, go for it. But a game is not just that. Not many games get that. A few feel it, subconsciously "getting it" with their experiential focus on gameplay and storytelling and so forth. Fewer acknowledge it, either by establishing it as a rule for the game's design and presentation (see Half Life, God of War 2018), or even more so by directly referencing this in the game itself (see the Stanley Parable).
 
 We praise some games for never breaking the flow with a cutscene. Meanwhile, those same games still have sections where you are locked in, listening to dialogue or watching a scripted sequence, perhaps waiting for a door to open.
 
