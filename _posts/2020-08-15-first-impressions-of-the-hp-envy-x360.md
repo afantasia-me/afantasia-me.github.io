@@ -60,7 +60,7 @@ But I still prepped a couple of things to show just a little bit about how speed
 
 Now, whilst there isn't a huge amount of reporting for this chip in particular, the TLDR of Zen 2 performance is that AMD is finally matching Intel in all-round single-threaded performance.
 
-This means that I can tick off both a) and b). Also, since a lot of the high performance software I run uses SIMD and tends to prefer AVX to SSE, I'm very happy to see excellent SIMD from Team Red. And, since many of you probably know me as "the \*\*\*\*ing C programmer", it probably comes to no surprise that I like to use SIMD here and there, so I'm glad to see it in full colours (AVX-512 bad lol).
+This means that I can tick off both a) and b). Also, since a lot of the high performance software I run uses SIMD and tends to prefer AVX to SSE, I'm very happy to see excellent SIMD from Team Red. And, since many of you probably know me as "the \*\*\*\*ing C programmer", it probably comes to no surprise that I like to use SIMD here and there, so I'm glad to see it in full colours (except AVX-512).
 
 If you really want benchmarks, you'll be better served elsewhere. What I've put together are based on the two performance critical use-cases for my current work:
 
