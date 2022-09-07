@@ -19,27 +19,26 @@ The economics dominate and to ensure we all get the experience we expect, physic
 
 "Cloud compute" (just the next step towards ubiquitous "public compute") just commercialises it same way rental and public utilities do, you just have to work out whether renting or owning is right for you, which includes factoring for maintenance and setup. People doing this aren't dumb, and anyone who's stuck around long enough or gone through the history will see the names change, but it all stays the same. Data is the thing that matters, so economics dictate this is what we get.
 
-To end, I'm going to put one of my favourite comments below verbatim, just because it's so good I'd like to save the click (and help back it up for posterity)
+To end, I'm going to put one of my favourite comments below (almost) verbatim, just because it's so good I'd like to save the click (and help back it up for posterity)
 
 [Are We Overestimating the Number of COBOL Transactions Each Day? - Slashdot:](https://developers.slashdot.org/comments.pl?sid=18156250&cid=61014218)
 
-> I never understood why this is an issue.
-> 
-> *** sorry for the book below... I started writing and... well it got out of control ***
-> 
 > Back in the 90's I worked for a bank clearing house and was coding some stuff on PC and there was an NCR mainframe which was actually so far out of support that they were literally collecting spare NCR mainframes from dumpsters to have spare parts. There was simply no point in rewriting the banking code since the mainframe from the 1970's was processing banking transactions for … everything for about 1/3 of all bank customers in the state of Florida at the time. We had an entire building dedicated to paper check processing with machines that reached 5 meter high ceilings lining all the walls. We were ingesting (what I assume was) millions of paper checks a week.
 > 
 > The mainframe guys didn't see their jobs threatened because unlike nearly every PC technology, on the mainframe, everything is an object and everything is a transaction.
 > 
 > To compare to a modern approach... an IBM mainframe is:
 > - CICS - Function as a Service, similar to Amazon Lambda functions... almost identical in fact.
-> - DB2 - Distributed Object storage database with NoSQL support as well as (I think) and ACID compliant SQL query engine as well as tables support
+> - DB2 - Distributed Object storage database with NoSQL support as well as (I think) an ACID compliant SQL query engine as well as tables support
 > - JCL - Basically the AWS command line tools for uploading and scheduling Lambda events and transactions
 > - RPL3 - A batch language for generating form reports … it's basically a precursor to Crystal Reports... which is mostly dead since paper is too
 > - TSO/e or ISPF - something like HTML for presenting the user interface to smart terminals... IBM 3270 terminals were sorta like a web browser in the sense that they support things pages and form controls and had things like the approximate equivalent of Get and Post.
 > - COBOL - One of very many programming languages which can be called by the CICS engine
+> 
 > I suppose I could go on, but overall, these systems are basically self-hosted AWS alternatives which have evolved … slowly and hardened since 1969.
+> 
 > I should point out that COBOL, which not the most exciting language is insanely simple. As soon as you understand that you generally don't write programs in Cobol, rather your write functions. You schedule the function to run using JCL (job control language) when an event occurs (a form posted data for example) and then you use object storage and NoSQL style methods to query databases and read or store information for example.
+> 
 > What people generally don't realize about the mainframe is that it completely and totally lacks a single point of failure. You can have a few nodes or a few million nodes. Storage is distributed naturally across any format from high performance SSD through real to real tape... even S3 if you really want it.
 > - IBM mainframes are and always have be a cloud.
 > - Load balancers on the way into a mainframe distribute transactions across any available node (just like K8S ingress)
