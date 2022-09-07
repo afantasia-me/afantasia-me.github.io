@@ -37,10 +37,10 @@ To end, I'm going to put one of my favourite comments below (almost) verbatim, j
 > 
 > I suppose I could go on, but overall, these systems are basically self-hosted AWS alternatives which have evolved … slowly and hardened since 1969.
 > 
-> I should point out that COBOL, which not the most exciting language is insanely simple. As soon as you understand that you generally don't write programs in Cobol, rather your write functions. You schedule the function to run using JCL (job control language) when an event occurs (a form posted data for example) and then you use object storage and NoSQL style methods to query databases and read or store information for example.
+> I should point out that COBOL, while not the most exciting language, is insanely simple. As soon as you understand that you generally don't write programs in Cobol, rather your write functions. You schedule the function to run using JCL (job control language) when an event occurs (a form posted data for example) and then you use object storage and NoSQL style methods to query databases and read or store information for example.
 > 
 > What people generally don't realize about the mainframe is that it completely and totally lacks a single point of failure. You can have a few nodes or a few million nodes. Storage is distributed naturally across any format from high performance SSD through real to real tape... even S3 if you really want it.
-> - IBM mainframes are and always have be a cloud.
+> - IBM mainframes are (and always have been) a cloud.
 > - Load balancers on the way into a mainframe distribute transactions across any available node (just like K8S ingress)
 > - Unlike ingress, if a transaction doesn't complete, you can schedule a retry that will try another node
 > - Functions are stored as source or binary objects in the common object database
@@ -51,7 +51,7 @@ To end, I'm going to put one of my favourite comments below (almost) verbatim, j
 > 
 > Most every programmer in the business world today is learning and using this stuff. Just, they generally use a different cloud provider where they pay for timesharing on someone else's mainframe... which is what a cloud provider is.
 > 
-> I simply can't possibly understand why, other than vendor lock in... which if it's IBM, it isn't cheap... but until Ginny gutted it was highly reliable... why would anyone have an issue with this?
+> I simply can't possibly understand why, other than vendor lock in... which if it's IBM, it isn't cheap... but until Ginny gutted it, it was highly reliable... why would anyone have an issue with this?
 > 
 > If you're a bank, financial institution, etc... it's probably still one of the best architectures you can possibly get your hands on. I spent 60 hours last month trying to figure out how to implement distributed storage in a K8S cluster... and how to implement scheduled rolling backups for it... I spent many additional hours trying to figure our how to automate the entire process of removing a K8S node and adding a new one programmatically, Then there's managing the firmware updates for the physical hardware it's running on... I actually have a 50 or so page document listing all the stupid little things I have to do.... to make a simple web server running OpenFaaS and such.
 > 
