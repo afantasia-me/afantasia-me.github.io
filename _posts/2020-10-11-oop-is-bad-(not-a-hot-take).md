@@ -12,13 +12,10 @@ tags:
 
 Related reading but not directly addressed, just part of the reason why the below is not a hot-take: 
 
-[Why OO Sucks](http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm)
-
-[Bad Engineering Properties of Object-Oriented Language](https://web.archive.org/web/20200313115307/https://lucacardelli.name/Papers/BadPropertiesOfOO.html)
-
-[The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
-
-[Object Oriented Programming is an expensive disaster which must end](https://web.archive.org/web/20191017092052/http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
+- [Why OO Sucks](http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm)
+- [Bad Engineering Properties of Object-Oriented Language](https://web.archive.org/web/20200313115307/https://lucacardelli.name/Papers/BadPropertiesOfOO.html)
+- [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
+- [Object Oriented Programming is an expensive disaster which must end](https://web.archive.org/web/20191017092052/http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
 
 I do agree with the fundamental thesis that OOP is flawed and worse than either a structured procedural language in the majority of programming uses, though I am predicating that I also know of some cases and ways in which the fundamental idea behind the original "OOP" (as coined by Alan Kay, and as seen by Smalltalk, Self, and then solved without the mess in Erlang as this "messaging oriented programming" instead) truly shines through as a superb way of tackling certain problems (primarily where fault tolerance a la Erlang is the key, and where passing messages between many conceptually simple components gives the system you can reason most about), but that this is not the majority of cases, and that many of the ways it can be used (graphical systems) it is either an equal to other methods or considerably worse (callback hell, god objects, dependency graph hell, etc), and that Java does typify some of the worst of all this, and the only reason C++ gets nowhere near as much ire is that you can drop back down closer to the level of C (but unfortunately it's difficult once some "OOP" parts are used as it's almost infectious, e.g. destructors etc). Generally, I agree that "managing" state is essential, and where possible eliminating either the need to manage, or the amount that you are managing, is usually the most reasonable approach, but at the same time there are many situations in which you simply cannot, and so discussing and figuring out how management can be done well is an important part of the challenge of "good" language design.
 
