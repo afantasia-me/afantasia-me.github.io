@@ -8,7 +8,7 @@ title: Home
 > Unabashadly infrequent work in progress.
 
 For updates on writing, see my <a rel="me" href="https://masto.ai/@afantasia">writing mastodon</a>.
-For socialising or the odd gamedev update, see <a rel="me" href="https://mastodon.gamedev.place/@babel">@babel</a>
+For socialising or the odd gamedev update, see <a rel="me" href="https://mastodon.gamedev.place/@babel">@babel</a>.
 
 ---
 
