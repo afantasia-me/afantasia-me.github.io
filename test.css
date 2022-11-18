@@ -1,0 +1,53 @@
+/* default, when we don't have a preference */
+html {
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/font-family */
+  font-family: ui-sans-serif, system-ui;
+}
+
+/* v1 */
+main {
+  max-width: 38rem;
+  padding: 2rem;
+  margin: auto;
+}
+
+/* v2 */
+main {
+  max-width: 38rem;
+  padding: 1.5rem;
+  margin: auto;
+}
+
+/* v3 */
+main {
+  max-width: 70ch;
+  padding: 2ch;
+  margin: auto;
+}
+
+/* v4 */
+html {
+  font-family: sans-serif;
+  max-width: 70ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25em;
+}
+
+/* v4 alt */
+html {
+  max-width: 70ch;
+  /* larger spacing on larger screens, very small spacing on tiny screens */
+  padding: calc(1vmin + .5rem);
+  /* shorthand for margin-left/margin-right */
+  margin-inline: auto;
+  /* fluid sizing: https://frontaid.io/blog/fluid-typography-2d-css-locks-clamp/ */
+  font-size: clamp(1em, 0.909em + 0.45vmin, 1.25em);
+}
+
+/* v4 alt */
+body :not(:is(h1,h2,h3,h4,h5,h6)) {
+  /* increase line-height for everything except headings */
+  line-height: 1.75;
+}

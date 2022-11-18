@@ -13,8 +13,11 @@ My usual pseudonym is A. Fantasia (stylised: aFantasia), while my online handle 
 You can sometimes find me:
 
 - Writing: [aFantasia](https://archiveofourown.org/users/aFantasia)
-  + Writing bird app: [@aFantasia__](https://twitter.com/aFantasia__)
-- Public bird app: babel [@StoryStratos](https://twitter.com/StoryStratos)
+  + Toot app: <a rel="me" href="https://masto.ai/@afantasia">@afantasia</a>
+  + Bird app: [@aFantasia__](https://twitter.com/aFantasia__)
+- Talking nonsense (and sometimes working on games)
+  + Toot app: <a rel="me" href="https://mastodon.gamedev.place/@babel">@babel</a>
+  + Bird app: babel [@StoryStratos](https://twitter.com/StoryStratos)
 - On discord: babel#0001
 
 I thank [Sangled](https://twitter.com/sangled) for their wonderful picrew (now sadly 404'd), used for pfp.
