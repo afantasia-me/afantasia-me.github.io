@@ -16,7 +16,7 @@ So. Mortimer found this notebook. It seems that its contents survive my... shall
 
 Might as well do something with it. Maybe I'll record some meditations... or something.
 
-# First Entry
+## First Entry
 
 I may now be the Grim Reaper, but I have always been a good listener.
 
@@ -64,7 +64,7 @@ Again.
 
 It wouldn't be the first time I failed. And probably won't be the last.
 
-# Second Entry
+## Second Entry
 
 You know, it _hurt_, the first time.
 
@@ -88,7 +88,7 @@ Anyway, I keep getting sidetracked. I suppose I did say this was for my meditati
 
 Or, I fear, the point where I prove myself useless and get... terminated by Upper Management.
 
-# Eighth Entry
+## Eighth Entry
 
 They say there's a department for everything. Well, at least Fate tells me so. Does that mean there is a department for us? For beings like Fate, Mortimer, and myself? The so-called immortals, those that last for eternity?
 
@@ -114,7 +114,7 @@ Maybe that's when I'll see myself, perhaps with a name and face I don't recognis
 
 ... After all, if this is a loop, then doesn't someone have to start it? I did have to die in order to become the Grim Reaper, didn't I?
 
-# Twelfth Entry
+## Twelfth Entry
 
 So I ousted Fate.
 
@@ -148,7 +148,7 @@ Fate now felt betrayed, just as I did. Yet there was no great relief on my part,
 
 In the end, there were just two people left feeling bitter and angry and betrayed.
 
-# Almost the Last Entry
+## Almost the Last Entry
 
 I've noticed something. I don't know how I never noticed before, but this notebook only has so many pages to write in.
 
@@ -180,7 +180,7 @@ Maybe it is getting close to the end. Perhaps they can feel it.
 
 I hope it's just not the kind of end I've been fearing.
 
-# Last Entry... hopefully
+## Last Entry... hopefully
 
 I think... it might be done. I might have finally found it.
 
