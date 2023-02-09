@@ -45,6 +45,10 @@ footer {
   bottom: 1em;
 }
 
+.date {
+  font-family: "Lucida Console", Courier, monospace, Helvetica, Arial, sans-serif;
+}
+
 /* Reverse.css proper starts here, again I have no recollection of the provenance of this file */
 #outer .region,
 #footer .group,

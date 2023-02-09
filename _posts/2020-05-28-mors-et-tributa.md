@@ -2,11 +2,10 @@
 layout: post
 title: Mors et Tributa
 date: 2020-05-28
+story: Death and Taxes Fanwork
 tags:
-  - Story
   - Fanworks
-  - Death and Taxes
-  - Oneshot
+  - Oneshots
 ---
 
 > Originally posted at my [AO3](https://archiveofourown.org/works/24413932).

@@ -6,6 +6,9 @@ layout: default
 {% if page.updated %}
 <span class="updated">Updated: {{ page.updated | date_to_string }}</span>
 {% endif %}
+{% if page.story %}
+<span class="story">Story: {{ page.story }}</span>
+{% endif %}
 {% if page.tags %}
 <p class="tags">Tags: {{ page.tags | array_to_sentence_string }}</p>
 {% endif %}
