@@ -6,6 +6,7 @@ story: Death and Taxes Fanwork
 published: true
 tags:
   - Fanworks
+  - Oneshot
 ---
 
 > Originally posted at my [AO3](https://archiveofourown.org/works/24413932).
