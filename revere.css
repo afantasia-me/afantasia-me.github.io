@@ -14,6 +14,10 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+p {
+  line-height: 1.3em;
+}
+
 img {
   max-width: 40em;
   object-fit: scale-down;
@@ -37,6 +41,7 @@ nav ul li {
 
 ul li {
   list-style-type: "\2212  ";
+  line-height: 1.3em;
 }
 
 footer {
@@ -46,10 +51,10 @@ footer {
 }
 
 .date {
-  font-family: "Lucida Console", Courier, monospace, Helvetica, Arial, sans-serif;
+  font-family: "Lucida Console", Courier, monospace, monospace;
 }
 
-/* Reverse.css proper starts here, again I have no recollection of the provenance of this file */
+/* Reverse.css proper starts here, but I have no recollection of the provenance for this file */
 #outer .region,
 #footer .group,
 .post fieldset fieldset,
