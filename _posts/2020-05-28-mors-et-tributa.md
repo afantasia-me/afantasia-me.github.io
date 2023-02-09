@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Impressions of the HP Envy x360
+title: Mors et Tributa
 date: 2020-05-28
 story: Death and Taxes Fanwork
 tags:
