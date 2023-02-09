@@ -3,7 +3,6 @@ layout: post
 title: Mors et Tributa
 date: 2020-05-28
 story: Death and Taxes Fanwork
-published: true
 tags:
   - Fanworks
   - Oneshot
