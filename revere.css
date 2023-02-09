@@ -41,6 +41,7 @@ ul li {
 
 footer {
   position: absolute;
+  font-size: smaller;
   bottom: 1em;
 }
 
