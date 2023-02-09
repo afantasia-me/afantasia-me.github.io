@@ -1,3 +1,7 @@
 name: Atelier Fantasia
 markdown: kramdown
 # permalink: pretty
+collections:
+  stories:
+    output: true
+collections_dir: collections
