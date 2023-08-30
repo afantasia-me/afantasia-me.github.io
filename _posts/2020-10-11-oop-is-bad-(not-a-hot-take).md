@@ -2,13 +2,13 @@
 layout: post
 title: OOP is Bad (not a hot-take)
 date: 2020-10-11
-updated: 2022-09-27
+updated: 2023-08-30
 tags:
   - Computers
   - Programming Languages
 ---
 
-[https://www.youtube.com/watch?v=QM1iUe6IofM](https://www.youtube.com/watch?v=QM1iUe6IofM)
+Adapted from my own correspondence discussing: [https://www.youtube.com/watch?v=QM1iUe6IofM](https://www.youtube.com/watch?v=QM1iUe6IofM).
 
 Related reading but not directly addressed, just part of the reason why the below is not a hot-take: 
 
