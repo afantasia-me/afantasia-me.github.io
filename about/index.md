@@ -18,6 +18,6 @@ You can sometimes find me:
 - Talking nonsense (and sometimes working on games)
   + Toot app: <a rel="me" href="https://mastodon.gamedev.place/@babel">@babel</a>
   + Bird app: babel [@StoryStratos](https://twitter.com/StoryStratos)
-- On discord: babel#0001
+- On discord: @babel (babel#0001)
 
-I thank [Sangled](https://twitter.com/sangled) for their wonderful picrew (now sadly 404'd), used for pfp.
+I thank [Sangled](https://twitter.com/sangled) for their wonderful picrew (now sadly 404's), used for pfp.
