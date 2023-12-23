@@ -1,3 +1,4 @@
 _site/
 .obsidian/
 _posts/wip/
+.ruff_cache/
