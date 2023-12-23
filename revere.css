@@ -35,6 +35,12 @@ th {
   padding: 8px;
 }
 
+nav img {
+  float: left;
+  height: 2.6em;
+  margin: -0.65em -0.65em;
+}
+
 nav ul li {
   display: inline;
 }
