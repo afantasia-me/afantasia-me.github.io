@@ -95,7 +95,7 @@ They say there's a department for everything. Well, at least Fate tells me so. D
 
 Is there a department for the death of the universe? The end of eternity? Time, or even reality itself? What about concepts? Is there a department that might handle the death of life itself? Of love?
 
-I mean, time flows differently here. One moment of sleep might last until the stars runs cold. Who's to say we're not already at the end of it all, where time unravels to make this possible?
+I mean, time flows differently here. One moment of sleep might last until the stars run cold. Who's to say we're not already at the end of it all, where time unravels to make this possible?
 
 Can I even escape? Is there anything to escape to?
 
