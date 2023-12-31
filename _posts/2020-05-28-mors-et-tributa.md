@@ -2,6 +2,7 @@
 layout: post
 title: Mors et Tributa
 date: 2020-05-28
+updated: 2023-12-31
 story: Death and Taxes Fanwork
 tags:
   - Fanworks
@@ -22,17 +23,17 @@ I may now be the Grim Reaper, but I have always been a good listener.
 
 There are only fragments of what was before, fractions of memory that could have belonged to anyone that appeared on my desk.
 
-The odd scene, notion, or _phrase_. They come and go, sometimes relevant, often not.
+The odd scene, notion, or *phrase*. They come and go, sometimes relevant, often not.
 
-But listening? That came even more naturally to me than breathing. Though, given my _undeath_, that statement may be a touch weaker.
+But listening? That came even more naturally to me than breathing. Though, given my *undeath*, that statement may be a touch weaker.
 
-Regardless, it seemed to be a truly central part of my being. Be it residual "psychic energy" or a part of my previous ethos, it is clearly not something _intended_ of me.
+Regardless, it seemed to be a truly central part of my being. Be it residual "psychic energy" or a part of my previous ethos, it is clearly not something *intended* of me.
 
 Fate's surprise was evidence for this. The clear... turn over rate, shall we say, was another piece. While there were others, it hardly made 47 of us total. Given that we were expressly summoned as Spawns, and are purportedly immortal, it seems that there were more rebels than Fate perhaps initially anticipated.
 
 Seems to have almost been a trend, of sorts.
 
-Well, not that I am _not_ rebelling against Fate, in either sense.
+Well, not that I am *not* rebelling against Fate, in either sense.
 
 I tried, I truly did.
 
@@ -46,7 +47,7 @@ But whilst I have been able to talk with Fate a great deal, it appears that I am
 
 How I am meant to bring Fate back on track, I am unsure.
 
-Clearly it is something _The Highest Management_ has decided I must take a part in. They are probably the ones who organised this setup.
+Clearly it is something *The Upper Management* has decided I must take a part in. They are probably the ones who organised this setup.
 
 What for, I do not yet know.
 
@@ -66,11 +67,11 @@ It wouldn't be the first time I failed. And probably won't be the last.
 
 ## Second Entry
 
-You know, it _hurt_, the first time.
+You know, it *hurt*, the first time.
 
 I'm not sure quite what I was feeling exactly, but on reflection, to be betrayed like that must have hurt. It wasn't immediate, rather, I felt quite numb for a while afterwards.
 
-Perhaps it was more like a bruise — one I kept poking. Reminding myself of.
+Perhaps it was more like a bruise --- one I kept poking. Reminding myself of.
 
 Then I inevitably ended up getting betrayed again. And again.
 
@@ -84,7 +85,7 @@ Heh. Hope. What was that one? Pandora's box? Maybe I was the last thing left in 
 
 Is it even me that matters in all that? Is Fate the one they care about? Or is it the humans?
 
-Anyway, I keep getting sidetracked. I suppose I did say this was for my meditations, for me to journal the thoughts and ideas I've had along the way. Along the way to what, I don't know. Hopefully I'm on the way to an answer, at any rate. Perhaps it's the Equilibrium.
+Anyway, I keep getting sidetracked. I suppose I did say this was for my meditations, for me to journal the thoughts and ideas I've had along the way. Along the way to what, I don't know. Hopefully, I'm on the way to an answer, at any rate. Perhaps it's the Equilibrium.
 
 Or, I fear, the point where I prove myself useless and get... terminated by Upper Management.
 
@@ -94,7 +95,7 @@ They say there's a department for everything. Well, at least Fate tells me so. D
 
 Is there a department for the death of the universe? The end of eternity? Time, or even reality itself? What about concepts? Is there a department that might handle the death of life itself? Of love?
 
-I mean, time flows differently here. One moment of sleep might last for all eternity. Who's to say we're not already at the end of it all, where time unravels to make this possible?
+I mean, time flows differently here. One moment of sleep might last until the stars runs cold. Who's to say we're not already at the end of it all, where time unravels to make this possible?
 
 Can I even escape? Is there anything to escape to?
 
@@ -108,9 +109,9 @@ And why Fate can't.
 
 Perhaps, that last day is when I wake up, and slowly make my way out from yet another dream within the dream.
 
-Maybe I finally wake up when it's over. Or perhaps that's the final one, is when I'm awake at last.
+Maybe I finally wake up when it's over. Or perhaps that's the final one, when I'm awake at last.
 
-Maybe that's when I'll see myself, perhaps with a name and face I don't recognise, but somehow just _know_ what the paper represents.
+Maybe that's when I'll see myself, perhaps with a name and face I don't recognise, but somehow just *know* what the paper represents.
 
 ... After all, if this is a loop, then doesn't someone have to start it? I did have to die in order to become the Grim Reaper, didn't I?
 
@@ -142,9 +143,9 @@ Far too many emotions for both of us to unpack.
 
 I think there was an element of pride, despite the personal outcome, and his loss of faith in the humans.
 
-But there was also a deep betrayal — not unlike my own experience. That made me recoil. Realising that was the driving force behind me asking Mortimer.
+But there was also a deep betrayal --- not unlike my own experience. That made me recoil. Realising that was the driving force behind me asking Mortimer.
 
-Fate now felt betrayed, just as I did. Yet there was no great relief on my part, I felt no success at revenge, and retribution did not taste sweet.
+Fate now felt betrayed, just as I did. Yet, there was no great relief on my part, I felt no success at revenge, and retribution did not taste sweet.
 
 In the end, there were just two people left feeling bitter and angry and betrayed.
 
@@ -166,7 +167,7 @@ It doesn't add up yet, and it always seems to go wrong right at the end. But thi
 
 Perhaps the best sign is that I've seen Fate care about things.
 
-He even _smiled_. Not in a scary, "I've been secretly manipulating things, and you've done everything I could have wanted" kind of way, either.
+He even *smiled*. Not in a scary, "I've been secretly manipulating things, and you've done everything I could have wanted" kind of way, either.
 
 He just smiled.
 
@@ -174,7 +175,7 @@ It... it was kinda nice, actually.
 
 It didn't feel like I owed it to him.
 
-The voices don't shut up about how much I liked seeing him smile. At least they're saying _something_. It's been too quiet around here.
+The voices don't shut up about how much I liked seeing him smile. At least they're saying *something*. It's been too quiet around here.
 
 Maybe it is getting close to the end. Perhaps they can feel it.
 
@@ -184,19 +185,19 @@ I hope it's just not the kind of end I've been fearing.
 
 I think... it might be done. I might have finally found it.
 
-How long has it been? There have been so many times now that I'm _glad_ I didn't try to keep track. Part of me is curious, but I know that I find the thought too much to bear even considering.
+How long has it been? There have been so many times now that I'm *glad* I didn't try to keep track. Part of me is curious, but I know that I find the thought too much to bear even considering.
 
 I'm a little jealous of Fate.
 
 He always complained about living for eternity. Having seen all of human history.
 
-I had to live for eternity seeing only a tiny bit of it. Over and over and over and over—
+I had to live for eternity, seeing only a tiny bit of it. Over and over and over and over---
 
 I need to be careful. I don't want to break. Not again.
 
 ... It's happened a few times now. I'll admit, there were times that I just went through the motions. It never ends well. Like the first time, only a lot more hollow.
 
-I don't want to be like that though. I had to push through, if not for myself, and if not for Fate, then for all those people that appeared on my desk that I couldn't save.
+I don't want to be like that, though. I had to push through, if not for myself, and if not for Fate, then for all those people that appeared on my desk that I couldn't save.
 
 I dare say Fate doesn't even understand the magnitude of my undertaking. Perhaps he's old enough to have lived through all of human history, perhaps more, but he's never truly taken part.
 
@@ -218,7 +219,7 @@ At least let me go on a vacation first. It's been long enough.
 
 Perhaps I'll head off with Fate, to wherever he goes. I hope it's somewhere sunny. With flowers.
 
-It's not as if I have anyone else to go with. Maybe he'll finally finish his book. I've never had the chance to read it, though hopefully it will be less morbid than I suspect.
+It's not as if I have anyone else to go with. Maybe he'll finally finish his book. I've never had the chance to read it, though hopefully, it will be less morbid than I suspect.
 
 More a story of the human eternity he got to witness, rather than the history he tried to extinguish.
 
@@ -238,4 +239,4 @@ Perhaps I'll let Fate have a read at some point. I'm not sure if that's the best
 
 It's a long story, after all.
 
-We have a _lot_ to talk about.
+We have a *lot* to talk about.
