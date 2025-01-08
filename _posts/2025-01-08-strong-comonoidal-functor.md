@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Can we have a strong comonoidal functor?
-maths: Strong Comonoidal Functor
+title: Can we have a strong (co)monoidal functor?
+maths: Category Theory
 date: 2025-01-08
 tags:
   - Maths
@@ -19,7 +19,7 @@ Oh, that wasn't too bad.
 
 In long?
 
-Well, in category theory, the concept of a functor has many extensions, including the notion of "strong" functors that interact with certain structures like monads (and, here, comonads). This question isn't about the comonad functor or comonoidal functor, the dual of a monoidal functor, but rather a monoidal functor over comonads.
+Well, in category theory, the concept of a functor has many extensions, including the notion of "strong" functors that interact with certain structures like monads (and, here, comonads). This question isn't about the comonad functor or the comonoidal functor, the dual of a monoidal functor, despite the title, but rather a monoidal functor over comonads.
 
 To define a functor that is "strong" (monoidal) with respect to a comonad, we need to establish a few components.
 
