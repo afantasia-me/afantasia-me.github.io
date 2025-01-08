@@ -5,4 +5,4 @@ title: Projects
 
 Nothing to see here.
 
-_For now..._
+*For now...*

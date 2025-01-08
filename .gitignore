@@ -1,4 +1,5 @@
 _site/
 .obsidian/
+.obsidian-mobile/
 _posts/wip/
 .ruff_cache/
