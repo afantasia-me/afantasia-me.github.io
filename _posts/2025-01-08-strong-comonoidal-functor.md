@@ -5,7 +5,6 @@ maths: Strong Comonoidal Functor
 date: 2025-01-08
 tags:
   - Maths
-published: false
 ---
 
 > This is a quick post to answer a question from this morning. There are many WIP posts that probably could have been uploaded at some point, but this one happens to be the first in over a year... c'est la vie!
