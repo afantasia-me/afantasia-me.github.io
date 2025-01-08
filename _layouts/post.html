@@ -13,6 +13,8 @@ layout: default
   <span class="story">Story: {{ page.story }}</span>
   {% endif %}{% if page.tags %}
   <p class="tags">Tags: {{ page.tags | array_to_sentence_string }}</p>
+  {% endif %}{% if page.maths %}
+  <p class="meta error">Warning: This page contains maths that may or may not be correct.</p>
   {% endif %}
 </header>
 
